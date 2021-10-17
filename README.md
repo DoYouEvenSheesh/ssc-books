@@ -1,2 +1,3 @@
-# ssc-books
-ssc-books-for-idiots
+#SSC Books
+* SSC Books for idiots and lazy fellows who can't download from sources.
+* Hi Jithin.
